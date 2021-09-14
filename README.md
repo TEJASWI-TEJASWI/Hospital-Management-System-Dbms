@@ -1,10 +1,7 @@
 # Hosital-Management-System-DBMS
-<b>Link</b> : https://github.com/hrishikeshathalye/Hospital-Management-System-DBMS
+<b>Link</b> : https://github.com/TEJASWI-TEJASWI/Hospital-Management-System-Dbms
 
 <pre>
-Name: Hrishikesh Athalye
-MIS: 111803154
-Class : TY Comp Div 2
 </pre>
 
 Hospital Management System made for Sem 5 DBMS Course Project.<br>
